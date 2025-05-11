@@ -51,7 +51,7 @@ A proposta foi implementar uma árvore binária para decodificar mensagens em Mo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/arvorebinariamorse.git
+   git clone https://github.com/MisaelVR/arvorebinariamorse.git
 2. Abra o arquivo ArvoreBinariaMorse.java na sua IDE.
 3. Compile e execute:
 4. Siga as instruções no console para codificar ou decodificar mensagens.
@@ -65,7 +65,7 @@ A proposta foi implementar uma árvore binária para decodificar mensagens em Mo
 ---
 
 # 📌 Links Importantes
-- Repositório GitHub: https://github.com/usuario/arvorebinariamorse
+- Repositório GitHub: https://github.com/MisaelVR/arvorebinariamorse.git
 - Vídeo explicativo: https://www.youtube.com/seuvideo
 
 ---
