@@ -60,7 +60,7 @@ A proposta foi implementar uma árvore binária para decodificar mensagens em Mo
 
 # 👨‍💼 Créditos
 - Projeto desenvolvido por Emmanuel Victorio, Misael Vicente e Otávio Augusto,
-- Disciplina Estrutura de Dados, Engenharia de Software – PUCPR.
+- Resolução de Problemas Estruturados em Computação, Engenharia de Software – PUCPR.
 
 ---
 
