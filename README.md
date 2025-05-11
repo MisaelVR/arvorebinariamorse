@@ -55,14 +55,20 @@ A proposta foi implementar uma árvore binária para decodificar mensagens em Mo
 2. Abra o arquivo ArvoreBinariaMorse.java na sua IDE.
 3. Compile e execute:
 4. Siga as instruções no console para codificar ou decodificar mensagens.
+   
+---
 
 # 👨‍💼 Créditos
 - Projeto desenvolvido por Emmanuel Victorio, Misael Vicente e Otávio Augusto,
 - Disciplina Estrutura de Dados, Engenharia de Software – PUCPR.
 
+---
+
 # 📌 Links Importantes
 - Repositório GitHub: https://github.com/usuario/arvorebinariamorse
 - Vídeo explicativo: https://www.youtube.com/seuvideo
+
+---
 
 
 
