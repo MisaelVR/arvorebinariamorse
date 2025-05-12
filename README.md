@@ -66,7 +66,7 @@ A proposta foi implementar uma árvore binária para decodificar mensagens em Mo
 
 # 📌 Links Importantes
 - Repositório GitHub: https://github.com/MisaelVR/arvorebinariamorse.git
-- Vídeo explicativo: https://www.youtube.com/seuvideo
+- Vídeo explicativo: https://www.youtube.com/watch?v=gR46aPMd1Dg
 
 ---
 
